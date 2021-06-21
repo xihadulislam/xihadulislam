@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/islamxihad" target="blank"><img src="https://img.shields.io/twitter/follow/islamxihad?logo=twitter&style=for-the-badge" alt="islamxihad" /></a> </p>
 
+- 🔭 I’m currently working on **Android Custom Keyboard**
+
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1IE_nwfnBV7zk75Bs7buN493Mtr0LODa9/view?usp=sharing](https://drive.google.com/file/d/1IE_nwfnBV7zk75Bs7buN493Mtr0LODa9/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://cutt.ly/5n2Wc8N](https://cutt.ly/5n2Wc8N)
 
 - 💬 Ask me about **android native, kotlin, flutter**
 
 - 📫 How to reach me **xihad.bd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q-6_cuCw3r8R6o0UAFGN-CIHXWfAEP6q/view?usp=sharing](https://drive.google.com/file/d/1q-6_cuCw3r8R6o0UAFGN-CIHXWfAEP6q/view?usp=sharing)
+- 📄 Know about my experiences [https://cutt.ly/pn2Wnb0](https://cutt.ly/pn2Wnb0)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -45,5 +47,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xihadulislam&show_icons=true&locale=en&layout=compact" alt="xihadulislam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xihadulislam&show_icons=true&locale=en" alt="xihadulislam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xihadulislam&" alt="xihadulislam" /></p>
