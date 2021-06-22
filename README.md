@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xihadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="xihadulislam" /> </p>
 
+<p align="left"> <a href="https://twitter.com/islamxihad" target="blank"><img src="https://img.shields.io/twitter/follow/islamxihad?logo=twitter&style=for-the-badge" alt="islamxihad" /></a> </p>
+
+
 - 🔭 I’m currently working on **Android Custom Keyboard**
 
 - 🌱 I’m currently learning **Flutter**
