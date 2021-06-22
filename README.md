@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm xihad islam</h1>
+<h1 align="center">Hi 👋, I'm Xihad</h1>
 <h3 align="center">Mobile application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xihadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="xihadulislam" /> </p>
