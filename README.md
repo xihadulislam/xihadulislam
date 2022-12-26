@@ -19,7 +19,9 @@
 - 📄 Know about my experiences [https://cutt.ly/pn2Wnb0](https://cutt.ly/pn2Wnb0)
 
 
-[![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/global.svg)](https://stardev.io/developers/xihadulislam)
+<h3 align="left"></h3>
+
+[![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/country.svg)](https://stardev.io/developers/xihadulislam)
 
 
 ### Blogs posts
