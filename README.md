@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Xihad</h1>
 <h3 align="center">Mobile application developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xihadulislam&label=Profile%20views&color=0e75b6&style=flat" alt="xihadulislam" /> </p>
+
+<p align="left"> <a href="https://twitter.com/islamxihad" target="blank"><img src="https://img.shields.io/twitter/follow/xihadulislam?logo=twitter&style=for-the-badge" alt="islamxihad" /></a> </p>
+
+
+
 - 🔭 I’m currently working on **Android Custom Keyboard**
 
 - 🌱 I’m currently learning **Flutter**
@@ -12,12 +18,6 @@
 - 📫 How to reach me **xihad.bd@gmail.com**
 
 - 📄 Know about my experiences [https://cutt.ly/pn2Wnb0](https://cutt.ly/pn2Wnb0)
-
-
-<h3 align="left"></h3>
-
-[![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/country.svg)](https://stardev.io/developers/xihadulislam)
-
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -50,5 +50,12 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xihadislam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xihadislam/0" alt="Recent Article 0"> 
+
+  
+  
+<h3 align="left"></h3>
+
+[![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/country.svg)](https://stardev.io/developers/xihadulislam)
+
 
 
