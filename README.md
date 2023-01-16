@@ -47,11 +47,14 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@xihadislam/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@xihadislam/0" alt="Recent Article 0"> 
 
   
-  ### Rank Based on Star
+## Country Ranking on StarDev
 <h3 align="left"></h3>
 
 [![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/country.svg)](https://stardev.io/developers/xihadulislam)
 
+## Local (Sylhet) Ranking on StarDev
+<h3 align="left"></h3>
+  
 [![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/locality.svg)](https://stardev.io/developers/xihadulislam)
 
 
