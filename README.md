@@ -50,7 +50,10 @@
   ### Rank Based on Star
 <h3 align="left"></h3>
 
+[![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/country.svg)](https://stardev.io/developers/xihadulislam)
+
 [![Check out xihadulislam's profile on stardev.io](https://stardev.io/developers/xihadulislam/badge/languages/locality.svg)](https://stardev.io/developers/xihadulislam)
+
 
 
   
